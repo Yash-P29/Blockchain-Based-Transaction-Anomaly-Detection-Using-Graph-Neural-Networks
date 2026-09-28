@@ -1,0 +1,47 @@
+[
+  {
+    "feature": "timestep_norm",
+    "importance": 4.385910798485604e-05,
+    "std": 3.8189584402249595e-06
+  },
+  {
+    "feature": "in_degree",
+    "importance": 0.0,
+    "std": 0.00022587699670328733
+  },
+  {
+    "feature": "out_degree",
+    "importance": 0.0007827678074814992,
+    "std": 7.279202200199237e-05
+  },
+  {
+    "feature": "total_degree",
+    "importance": 0.0018891592605156048,
+    "std": 0.0010749859781255383
+  },
+  {
+    "feature": "degree_ratio",
+    "importance": 0.00010380074840261599,
+    "std": 2.8022719040372206e-05
+  },
+  {
+    "feature": "local_neighbor_count",
+    "importance": 0.003469152985260182,
+    "std": 0.0012595399438157856
+  },
+  {
+    "feature": "timestep_degree_interact",
+    "importance": 0.0,
+    "std": 6.498161378922663e-05
+  },
+  {
+    "feature": "ts_mean_degree",
+    "importance": 0.0,
+    "std": 5.566922129407807e-06
+  },
+  {
+    "feature": "ts_illicit_rate",
+    "importance": 0.0,
+    "std": 0.0
+  }
+]

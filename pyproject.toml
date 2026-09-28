@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "blockchain-anomaly-gnn"
+version = "0.1.0"
+description = "Blockchain Anomaly GNN Project"
+dependencies = []
+
+[tool.setuptools.packages.find]
+include = ["src", "src.*"]
